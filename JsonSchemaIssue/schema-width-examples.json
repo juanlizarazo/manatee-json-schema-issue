@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "type": "object",
+  "properties": {
+    "test": {
+      "$id": "/properties/test",
+      "type": "string",
+      "title": "Test property",
+      "description": "Test property",
+      "default": "",
+      "examples": [ "any string" ]
+    }
+  }
+}
